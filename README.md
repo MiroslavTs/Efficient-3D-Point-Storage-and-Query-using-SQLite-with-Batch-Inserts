@@ -11,7 +11,7 @@ It highlights the performance benefits of **batch inserts** and compares two que
 **Author:** Miroslav Tsintsarski  
 **Affiliation:** Discoverer Petascale Supercomputer (Sofia, Bulgaria)  
 **Email:** m.tsintsarski@discoverer.bg  
-**Date:** 22 April 2024
+**Date:** 27 August 2025
 
 ## Features
 

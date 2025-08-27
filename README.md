@@ -1,3 +1,5 @@
+
+
 # 3D Point Database with SQLite
 
 This project demonstrates how to efficiently generate, store, and query millions of 3D points using **SQLite** and **NumPy**.
@@ -5,6 +7,11 @@ It highlights the performance benefits of **batch inserts** and compares two que
 
 * **Bounding box pre-selection** using SQL range queries.
 * **Exact spherical search** based on distance calculation.
+
+**Author:** Miroslav Tsintsarski  
+**Affiliation:** Discoverer Petascale Supercomputer (Sofia, Bulgaria)  
+**Email:** m.tsintsarski@discoverer.bg  
+**Date:** 22 April 2024
 
 ## Features
 

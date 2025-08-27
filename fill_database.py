@@ -9,7 +9,7 @@ This script demonstrates how to:
 5. Backup the in-memory database to disk for persistence.
 
 Author: Miroslav Tsintsarski
-Affiliation: Discoverer Supercomputer
+Affiliation: Discoverer Petascale Supercomputer (Sofia, Bulgaria)
 Email: tsintsarski.work@gmail.com
 Date: 27 August 2025
 """

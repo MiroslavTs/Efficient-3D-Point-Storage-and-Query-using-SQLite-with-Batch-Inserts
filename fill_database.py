@@ -10,7 +10,7 @@ This script demonstrates how to:
 
 Author: Miroslav Tsintsarski
 Affiliation: Discoverer Petascale Supercomputer (Sofia, Bulgaria)
-Email: tsintsarski.work@gmail.com
+Email: m.tsintsarski@discoverer.bg
 Date: 27 August 2025
 """
 
